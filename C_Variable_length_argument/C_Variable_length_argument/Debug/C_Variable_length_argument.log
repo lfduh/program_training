@@ -1,0 +1,12 @@
+﻿已經開始建置於 2014/10/1 上午 11:33:54。
+     1>節點 2 (Build 目標) 上的專案 "c:\Users\mingyingtu\documents\visual studio 2013\Projects\C_Variable_length_argument\C_Variable_length_argument\C_Variable_length_argument.vcxproj"。
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>c:\users\mingyingtu\documents\visual studio 2013\projects\c_variable_length_argument\c_variable_length_argument\source.cpp(40): error C2065: 'num_list' : 未宣告的識別項
+     1>c:\users\mingyingtu\documents\visual studio 2013\projects\c_variable_length_argument\c_variable_length_argument\source.cpp(45): error C2065: 'num_list' : 未宣告的識別項
+     1>專案 "c:\Users\mingyingtu\documents\visual studio 2013\Projects\C_Variable_length_argument\C_Variable_length_argument\C_Variable_length_argument.vcxproj" (Build 目標) 建置完成 -- 失敗。
+
+建置失敗。
+
+經過時間 00:00:00.16

@@ -1,0 +1,11 @@
+﻿已經開始建置於 2014/7/2 上午 10:59:00。
+     1>節點 2 (Build 目標) 上的專案 "c:\Users\mingyingtu\documents\visual studio 2013\Projects\enum\enum\enum.vcxproj"。
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>c:\users\mingyingtu\documents\visual studio 2013\projects\enum\enum\source.cpp(17): error C2105: '++' 需要左值 (l-value)
+     1>專案 "c:\Users\mingyingtu\documents\visual studio 2013\Projects\enum\enum\enum.vcxproj" (Build 目標) 建置完成 -- 失敗。
+
+建置失敗。
+
+經過時間 00:00:00.70

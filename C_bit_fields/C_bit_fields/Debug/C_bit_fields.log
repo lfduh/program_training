@@ -1,0 +1,13 @@
+﻿已經開始建置於 2014/10/3 下午 03:11:20。
+     1>節點 2 (Build 目標) 上的專案 "c:\Users\mingyingtu\Documents\Visual Studio 2013\Projects\C_bit_fields\C_bit_fields\C_bit_fields.vcxproj"。
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\Users\mingyingtu\Documents\Visual Studio 2013\Projects\C_bit_fields\Debug\C_bit_fields.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"c:\Users\mingyingtu\Documents\Visual Studio 2013\Projects\C_bit_fields\Debug\C_bit_fields.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\Users\mingyingtu\Documents\Visual Studio 2013\Projects\C_bit_fields\Debug\C_bit_fields.lib" /MACHINE:X86 Debug\Source.obj
+         C_bit_fields.vcxproj -> c:\Users\mingyingtu\Documents\Visual Studio 2013\Projects\C_bit_fields\Debug\C_bit_fields.exe
+     1>專案 "c:\Users\mingyingtu\Documents\Visual Studio 2013\Projects\C_bit_fields\C_bit_fields\C_bit_fields.vcxproj" (Build 目標) 建置完成。
+
+建置成功。
+
+經過時間 00:00:00.35
